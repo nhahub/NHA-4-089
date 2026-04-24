@@ -30,6 +30,13 @@ The core objective is to analyze symptom-disease relationships and provide the "
 - **Visualization:** Matplotlib, Seaborn, Plotly Express
 - **Machine Learning:** Scikit-Learn (Random Forest, PCA, Label Encoding)
 
+## 📊 Dataset
+The dataset used in this project is too large to be hosted on GitHub.
+
+You can download it from Google Drive:
+https://drive.google.com/drive/folders/11fRcW3lQY0ec6Gy30mSqlhjre3kXunl9?usp=sharing
+
+
 ## 📁 Project Structure
 ```text
 ├── Data/
