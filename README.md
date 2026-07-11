@@ -50,7 +50,7 @@ This project uses the **TCGA Pan-Cancer** gene expression dataset to train and d
 - **Model monitoring**: a Population Stability Index (PSI) drift check with automated alerts
 - **Periodic performance reporting**, logged to `reports/performance_log.csv`
 
-## 🚀 Running the Notebook
+##  Running the Notebook
 
 ```bash
 pip install -r requirements.txt
