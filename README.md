@@ -90,7 +90,6 @@ Model performance and evaluation results are exported to `powerbi_export/`:
 - `confusion_matrix_long.csv` — long-format confusion matrix for Matrix visuals
 - `feature_importance.csv` — top PCA components by Random Forest importance
 
-Import these CSVs into Power BI via **Get Data → Text/CSV**.
 
 ## 🛠️ Tech Stack
 
